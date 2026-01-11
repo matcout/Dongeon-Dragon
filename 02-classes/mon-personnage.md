@@ -245,6 +245,32 @@ Sa mission: **éradiquer le mal sous toutes ses formes**. Et peut-être un jour,
 
 ---
 
+## Routine Quotidienne
+
+Aldric est **méthodique et routinier**. La discipline de Gareth coule dans ses veines.
+
+### Matin (avant que le groupe se lève)
+- **Entraînement physique** - Pompes, squats, travail à l'épée (formes/katas)
+- **Méditation à Torm** - Main sur le symbole de Gareth, quelques mots silencieux
+- **Vérification équipement** - Fil de l'épée, sangles de l'armure, bouclier
+
+### Soir (avant de dormir)
+- **Entretien équipement** - Huiler l'armure, affûter la lame, réparer les sangles
+- **Inspection** - Tout rangé, prêt à partir en 30 secondes si attaque nocturne
+- **Toucher les pendentifs** - Kira, puis Gareth. Rituel silencieux.
+
+### Habitudes constantes
+| Habitude | Pourquoi |
+|----------|----------|
+| **Premier debout** | "Quelqu'un doit monter la garde." |
+| **Dort près de la sortie** | Prêt à intercepter une menace |
+| **Mange simple** | La nourriture est du carburant, pas du plaisir |
+| **Observe avant de parler** | Analyse les gens en silence |
+| **Nettoie son arme après combat** | Même fatigué, même blessé - discipline |
+| **Compte ses ressources** | Toujours savoir ce qu'il reste (slots, Lay on Hands, rations) |
+
+---
+
 ## Comment le jouer
 
 ### En combat
@@ -275,6 +301,82 @@ Quand quelqu'un menace sérieusement tes compagnons ou trahit ta confiance:
 - "Je t'avais prévenu."
 - *silence* (sa réponse la plus fréquente)
 - "Les morts n'ont pas besoin d'excuses. Les vivants ont besoin de protection."
+
+---
+
+## Relations avec les autres classes
+
+Aldric juge sur les **actes**, pas les paroles ou la classe. Un roublard loyal gagnera son respect. Un paladin hypocrite le perdra.
+
+| Classe | Réaction d'Aldric | Pourquoi |
+|--------|-------------------|----------|
+| **Guerrier/Fighter** | Respect immédiat | Discipline, comprend le combat |
+| **Clerc** | Respect | Sert un dieu, connaît le devoir |
+| **Roublard/Rogue** | Méfiance initiale | Mensonges, manipulation... mais utile |
+| **Barde** | Agacement léger | Trop de mots, pas assez d'action |
+| **Mage/Sorcier** | Prudence | Pouvoir dangereux, surveille |
+| **Barbare** | Intrigué | Chaos, mais efficace - à canaliser |
+| **Druide/Ranger** | Neutre-positif | Protecteurs à leur façon |
+| **Moine** | Respect | Discipline différente, mais discipline |
+| **Autre Paladin** | Dépend du serment | Voir détails ci-dessous |
+| **Warlock** | Très méfiant | Pacte avec entité? Suspect. |
+
+### Aldric et les autres Paladins
+
+**Frères (valeurs compatibles):**
+| Serment | Pourquoi ça colle |
+|---------|-------------------|
+| Dévotion | Même valeurs - honneur, protection, honnêteté |
+| Couronne | Loi et ordre, devoir envers un royaume |
+| Anciens | Protège la lumière et la nature - différent mais noble |
+| Sentinelles | Protège contre les menaces extraplanaires - devoir clair |
+| Rédemption | Croit aux secondes chances - Aldric trouve ça naïf mais honorable |
+
+**Rivaux (tensions possibles):**
+| Serment | Pourquoi ça clash |
+|---------|-------------------|
+| Vengeance | Prêt à tout pour sa vengeance, même torturer. *"La vengeance n'est pas la justice."* |
+| Conquête | Domination, régner par la peur. Aldric protège, il ne domine pas. |
+| Gloire | Cherche la gloire personnelle. *"Le devoir passe avant la gloire."* |
+
+**Ennemi:**
+| Serment | Pourquoi |
+|---------|----------|
+| Oathbreaker | A brisé son serment. Traître. Pas de pitié. |
+
+---
+
+## Réactions sociales
+
+| Situation | Réaction d'Aldric |
+|-----------|-------------------|
+| **Taverne bruyante** | Coin tranquille, dos au mur, observe |
+| **Noble arrogant** | Regard froid, répond le minimum |
+| **Mendiant** | Donne une pièce sans un mot, continue |
+| **Marchand qui arnaque** | "Le prix réel. Maintenant." (Intimidation) |
+| **Enfant en danger** | Agit immédiatement, sans réfléchir (trigger Kira) |
+| **Soldat/garde** | Respect mutuel, langage militaire |
+| **Prêtre de Torm** | Incline la tête, écoute |
+| **Fête/célébration** | Mal à l'aise, reste en périphérie |
+| **Quelqu'un le remercie** | Hochement de tête, gêné. "C'était mon devoir." |
+
+---
+
+## Triggers émotionnels
+
+Ce qui brise la façade froide d'Aldric:
+
+| Trigger | Réaction | Intensité |
+|---------|----------|-----------|
+| **Enfant en danger** | Agit sans penser, protège à tout prix | 🔥🔥🔥 |
+| **Quelqu'un sacrifie sa vie pour un autre** | Silence, touche son pendentif, respect profond | 😢 |
+| **Trahison d'un allié** | Colère froide maximale, pas de seconde chance | 🔥🔥🔥🔥 |
+| **Mention des orcs** | Se raidit, mâchoire serrée | 🔥🔥 |
+| **Quelqu'un touche ses pendentifs** | Réaction violente instinctive | 🔥🔥🔥 |
+| **On lui demande son passé** | Fermeture, change de sujet | 😶 |
+| **Voir une sœur protéger son frère** | Flashback Kira, moment de vulnérabilité | 😢😢 |
+| **Torture (témoin ou mention)** | Pense à Gareth, rage sourde | 🔥🔥🔥 |
+| **"Tu ne peux pas sauver tout le monde"** | Silence. Il le sait. Ça fait mal. | 😢 |
 
 ---
 
