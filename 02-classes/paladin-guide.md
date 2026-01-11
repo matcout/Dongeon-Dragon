@@ -199,51 +199,13 @@ Tu prépares un nombre de sorts = CHA mod + demi-niveau Paladin.
 
 ## Conseils de Gameplay
 
-### En combat:
-1. **Positionne-toi devant** - Tu es le tank
-2. **Utilise Bless** au round 1 si le combat semble long
-3. **Garde tes Smites** pour les crits ou pour finir un ennemi
-4. **Lay on Hands** pour les urgences (allié à 0 HP)
+> **Pour un guide tactique complet**, voir `04-ressources/tactiques-paladin.md`
 
-### Hors combat:
-- Tu es la **face du groupe** (CHA élevé)
-- Parle aux PNJ, négocie, intimide
-- Divine Sense pour détecter le mal
-
-### Erreurs de débutant à éviter:
-❌ Smite sur chaque attaque (tu vas manquer de slots)
-❌ Oublier ton Aura of Protection (rappelle au DM!)
-❌ Rester en arrière (tu dois être en mêlée)
-❌ Ignorer Bless (c'est un des meilleurs sorts niveau 1)
-
----
-
-## Exemple de Personnage Niveau 1
-
-**Nom**: Aldric Lumebrise
-**Race**: Humain Variant
-**Classe**: Paladin 1
-**Background**: Soldat
-
-### Stats:
-- FOR 16 (+3) | DEX 10 (+0) | CON 14 (+2)
-- INT 8 (-1) | SAG 12 (+1) | CHA 14 (+2)
-
-### Don (Humain Variant): Sentinel
-- Quand tu touches une créature, sa vitesse tombe à 0
-- Attaque d'opportunité même si l'ennemi Disengage
-- Réaction pour attaquer si un allié adjacent est attaqué
-
-### Compétences: Athlétisme, Persuasion, Intimidation, Perspicacité
-
-### Équipement:
-- Épée longue (1d8+3)
-- Bouclier (+2 CA)
-- Cotte de mailles (CA 16)
-- 5 javelines
-- Symbole sacré
-
-**CA**: 18 | **HP**: 12 | **Vitesse**: 30ft
+### Résumé:
+- **Positionne-toi devant** - Tu es le tank
+- **Bless** au round 1 si combat long
+- **Garde tes Smites** pour les crits
+- **Lay on Hands** pour relever un allié à 0 HP (1 point suffit)
 
 ---
 
