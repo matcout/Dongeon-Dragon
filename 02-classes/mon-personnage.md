@@ -2,18 +2,20 @@
 
 ## Identité
 
-**Nom**: Cédric Vorn (ou choisis le tien)
+**Nom**: Aldric
 **Race**: Humain Variant
 **Classe**: Paladin 3
 **Serment**: Dévotion
-**Background**: Soldat (Officier)
+**Background**: Soldat (entraîné par Ser Gareth)
 **Alignement**: Loyal Bon ou Loyal Neutre
+**Dieu**: Torm (Devoir, Loyauté, Sacrifice)
+**Âge**: 25 ans
 
 ---
 
 ## Concept en une phrase
 
-> *"Un ancien officier qui a appris que la discipline sauve plus de vies que l'héroïsme. Il protège ceux qui comptent avec une efficacité froide, et que les dieux aient pitié de ceux qui menacent les siens."*
+> *"Un orphelin forgé par la tragédie, élevé par un vieux Paladin de Torm. Il protège ceux qui le méritent avec une efficacité froide - car tous ceux qu'il a aimés sont morts."*
 
 ---
 
@@ -174,11 +176,12 @@
 - Cotte de mailles (CA 16)
 - Bouclier (CA +2)
 
+### Objets Précieux (ne quittent jamais Aldric)
+- **Pendentif de Kira** - le seul souvenir de sa sœur, récupéré sur son corps
+- **Symbole sacré de Torm** - appartenait à Ser Gareth, sert de focaliseur divin
+
 ### Autre
-- Symbole sacré (gravé dans le bouclier)
 - Pack d'explorateur
-- Insigne de rang (officier)
-- Trophée d'un ennemi vaincu
 - Jeu de cartes
 - Vêtements communs
 - Bourse (10 po)
@@ -195,22 +198,50 @@
 - **Discipline**: *"La structure et l'ordre protègent les gens mieux que l'héroïsme aveugle."*
 
 ### Lien
-- *"Mes compagnons sont ma responsabilité. Leur survie passe avant ma gloire."*
+- *"Je porte le souvenir de Kira et de Ser Gareth. Leur mort ne sera pas vaine. Je protège ceux qui le méritent - en leur mémoire."*
 
 ### Défaut
 - *"Quand on pousse trop, quand on menace les miens, ma colère devient froide et absolue. Je ne crie pas. J'agis. Et parfois, j'agis trop."*
 
 ---
 
-## Backstory (courte)
+## Backstory
 
-Cédric était officier dans une armée régulière. Compétent, discipliné, respecté. Jusqu'au jour où un commandant incompétent a envoyé son unité dans un piège évident. La moitié de ses hommes sont morts.
+### Le Massacre (il y a 20 ans)
 
-Il a confronté le commandant. Ce qui s'est passé ensuite... on n'en parle pas. Mais Cédric n'est plus officier.
+Aldric avait 5 ans quand les orcs ont attaqué son village. Sa sœur **Kira**, 9 ans, sa complice et meilleure amie, l'a caché dans un coffre. *"Reste là. Ne bouge pas."* Ce sont les derniers mots qu'elle lui a dits.
 
-Il a trouvé un nouvel ordre - pas une armée, mais un serment. La Dévotion. Pas parce qu'il entend des voix divines ou qu'il a eu une révélation. Mais parce qu'il a compris que **les principes et la discipline** sont ce qui sépare les protecteurs des bouchers.
+À travers les fentes du coffre, Aldric a vu Kira se faire égorger.
 
-Maintenant il erre, cherchant des gens qui valent la peine d'être protégés. Et quand il les trouve, que les dieux aient pitié de leurs ennemis.
+Son père **Aldwin** et sa mère **Lena** sont morts cette nuit-là. Aldric est le seul survivant.
+
+### Ser Gareth (15 ans d'apprentissage)
+
+**Ser Gareth**, un vieux Paladin de Torm, est arrivé trop tard pour sauver le village. Il a trouvé l'enfant dans les ruines, agrippant le pendentif de sa sœur morte.
+
+Par culpabilité, par devoir, ou peut-être parce que Torm le lui demandait, Gareth a pris Aldric sous son aile. Pendant 15 ans, il lui a tout enseigné: le combat, la discipline, l'honneur, et la voie du Paladin. Gareth est devenu le père qu'Aldric avait perdu.
+
+### La Mort du Mentor (il y a 5 ans)
+
+Un jour, un mercenaire a cherché Aldric. Pourquoi? Aldric ne le sait toujours pas.
+
+Ser Gareth a été capturé. Torturé. Il n'a jamais révélé où se trouvait son élève. Aldric a trouvé son corps trois jours plus tard.
+
+Le mercenaire? Disparu. La raison de cette traque? Un mystère qui hante encore Aldric.
+
+### Aujourd'hui (25 ans)
+
+Aldric marche seul. Il évite l'attachement - tous ceux qu'il a aimés finissent morts. Son cœur s'est endurci, mais il n'a pas oublié les enseignements de Gareth.
+
+Il porte deux pendentifs autour du cou:
+- **Celui de Kira** - sa sœur qui l'a sauvé
+- **Le symbole de Torm de Ser Gareth** - son mentor qui s'est sacrifié pour lui
+
+Sa mission: **éradiquer le mal sous toutes ses formes**. Et peut-être un jour, découvrir pourquoi quelqu'un voulait sa mort.
+
+### Mystère non résolu (pour le DM)
+
+> *Pourquoi un mercenaire cherchait-il Aldric? Le massacre du village était-il vraiment aléatoire? Qui a commandité cette traque? Le mercenaire est-il encore en vie?*
 
 ---
 
@@ -235,7 +266,7 @@ Quand quelqu'un menace sérieusement tes compagnons ou trahit ta confiance:
 - Tu deviens **très calme, très efficace**
 - C'est là que tu Smite avec tout ce que t'as
 
-> **Signal pour le DM**: "Cédric le regarde sans expression. Ses doigts se resserrent sur son épée."
+> **Signal pour le DM**: "Aldric le regarde sans expression. Ses doigts se resserrent sur son épée."
 
 ### Phrases types
 - "On y va."

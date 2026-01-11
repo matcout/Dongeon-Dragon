@@ -5,18 +5,45 @@
 Ce repo appartient à **Mathieu**, un **débutant total** en D&D 5e qui va jouer sa première partie bientôt.
 
 **Son personnage:**
+- **Nom:** Aldric
+- **Âge:** 25 ans
 - **Race:** Humain Variant
 - **Classe:** Paladin niveau 3
 - **Serment:** Dévotion
+- **Dieu:** Torm (Devoir, Loyauté, Sacrifice)
 - **Don:** Sentinel
-- **Historique:** Soldat
-- **Langue bonus:** À choisir (Gobelin ou Céleste recommandé)
+- **Historique:** Soldat (entraîné par Ser Gareth)
+
+---
+
+## Backstory d'Aldric
+
+### Résumé
+Orphelin à 5 ans après un massacre d'orcs, Aldric a vu sa sœur Kira se faire égorger. Élevé pendant 15 ans par Ser Gareth, un Paladin de Torm, il a perdu son mentor il y a 5 ans - torturé et tué par un mercenaire qui cherchait Aldric pour une raison inconnue.
+
+### Personnages clés
+| Qui | Relation | Statut |
+|-----|----------|--------|
+| **Kira** | Sœur (9 ans au massacre) | Morte - l'a caché dans un coffre |
+| **Aldwin** | Père | Mort (massacre) |
+| **Lena** | Mère | Morte (massacre) |
+| **Ser Gareth** | Mentor, figure paternelle | Mort (torturé par mercenaire) |
+
+### Objets importants
+- **Pendentif de Kira** - récupéré sur son corps, ne le quitte jamais
+- **Symbole de Torm de Gareth** - sert de focaliseur divin
+
+### Mystère non résolu (hooks pour le DM)
+- Pourquoi un mercenaire cherchait-il Aldric?
+- Le massacre du village était-il vraiment aléatoire?
+- Qui a commandité cette traque?
+- Le mercenaire est-il encore en vie?
 
 ---
 
 ## Concept du personnage
 
-Un ancien officier militaire, pragmatique et discipliné. Pas un chevalier flamboyant - un protecteur efficace et silencieux.
+Un orphelin forgé par la tragédie, élevé par un vieux Paladin. Pas un chevalier flamboyant - un protecteur efficace et silencieux qui a tout perdu.
 
 **Sa personnalité (basée sur son test Big Five):**
 - Très discipliné et persévérant (Conscienciosité 89%)
@@ -193,7 +220,8 @@ Persuasion (CHA): CHA mod + 2 = ___
 | Fichier | Contenu |
 |---------|---------|
 | `02-classes/mon-personnage.md` | Sa fiche complète |
+| `04-ressources/torm-et-enseignements.md` | Torm + enseignements de Ser Gareth |
 | `04-ressources/sorts-paladin-francais.md` | Ses sorts en français |
 | `04-ressources/resume-une-page-paladin.md` | Cheat sheet à imprimer |
-| `04-ressources/cheat-sheet-paladin.md` | Référence rapide combat |
+| `04-ressources/tactiques-paladin.md` | Guide tactique détaillé |
 | `01-bases/faq-debutant.md` | Questions fréquentes |
