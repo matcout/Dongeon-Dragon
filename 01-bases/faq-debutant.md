@@ -329,18 +329,6 @@ Pas toutes les sessions sont épiques. Mais si c'est récurrent:
 
 ---
 
-### Je prépare quoi comme sorts au niveau 2?
-**Setup recommandé (2 slots):**
-- **Bless** - Le meilleur sort niveau 1, toujours utile
-- **Cure Wounds** ou **Shield of Faith** - Selon tes besoins
-
-**Rotation possible:**
-- Combat long prévu? → Bless + Shield of Faith
-- Donjon dangereux? → Bless + Cure Wounds
-- Morts-vivants? → Bless + Searing Smite
-
----
-
 ### Mon serment m'oblige à faire quelque chose que je ne veux pas faire?
 Ton serment est un **guide**, pas une prison.
 
