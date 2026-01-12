@@ -174,11 +174,13 @@
 
 ### Armure
 - Cotte de mailles (CA 16)
-- Bouclier (CA +2)
+- Bouclier (CA +2) - **Symbole de Torm fixé dessus** (focaliseur divin, amovible)
 
 ### Objets Précieux (ne quittent jamais Aldric)
-- **Pendentif de Kira** - le seul souvenir de sa sœur, récupéré sur son corps
-- **Symbole sacré de Torm** - appartenait à Ser Gareth, sert de focaliseur divin
+- **Pendentif de Kira** - le seul souvenir de sa sœur, récupéré sur son corps, porté autour du cou
+- **Symbole sacré de Torm** - médaillon de Ser Gareth, fixé au bouclier mais amovible (peut être transféré)
+
+> *Kira près du cœur. Gareth sur le bouclier qui protège les autres.*
 
 ### Autre
 - Pack d'explorateur
@@ -202,6 +204,43 @@
 
 ### Défaut
 - *"Quand on pousse trop, quand on menace les miens, ma colère devient froide et absolue. Je ne crie pas. J'agis. Et parfois, j'agis trop."*
+
+### Mission personnelle
+
+> *"Être celui qui se met entre le danger et les autres - pour que personne d'autre n'ait à mourir comme Kira et Gareth sont morts."*
+
+C'est un devoir personnel autant que religieux. Torm lui donne un cadre (Devoir, Loyauté, Sacrifice), mais la vraie motivation d'Aldric vient de ses cicatrices.
+
+### Peur profonde
+
+> *Perdre quelqu'un d'autre.*
+
+Pas les monstres. Pas la mort. Ce qui terrifie Aldric, c'est de revivre son impuissance - voir un allié mourir devant lui comme Kira est morte pendant qu'il était caché dans ce coffre.
+
+### Réactions typiques
+
+| Situation | Réaction d'Aldric |
+|-----------|-------------------|
+| Quelqu'un insulte Torm | Regard froid et avertissement calme |
+| Un enfant est en danger | Fonce sans réfléchir |
+| On menace ses alliés | Colère froide, puis action |
+| Un allié est en danger mortel | Panique froide, prêt à tout sacrifier |
+
+### Routine de prière
+
+Aldric ne supplie pas - il **rapporte**, comme un soldat à son commandant.
+
+**Matin (long repos):** Méditation silencieuse, prépare ses sorts. Main sur le symbole de Gareth.
+> *"Torm. Nouveau jour. Je suis prêt à faire mon devoir."*
+
+**Avant un combat important:** Courte invocation, yeux fermés.
+> *"Donne-moi la force de protéger ceux qui comptent."*
+
+**Après un échec ou une perte:** Seul, à genoux, le soir.
+> *"J'ai échoué. Mais je me relève. Pour eux."*
+
+**Channel Divinity:** Murmure au moment d'activer le pouvoir.
+> *"Torm, à travers moi."*
 
 ---
 

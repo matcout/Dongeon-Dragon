@@ -204,6 +204,8 @@ Pense à ça comme des "munitions" magiques.
 | Niveau Paladin | Slots Niv.1 | Slots Niv.2 |
 |----------------|-------------|-------------|
 | 2 | 2 | - |
+| 3 | 3 | - |
+| 4 | 3 | - |
 | 5 | 4 | 2 |
 
 Tu peux utiliser un slot de niveau supérieur pour un sort de niveau inférieur (souvent avec effet bonus).
