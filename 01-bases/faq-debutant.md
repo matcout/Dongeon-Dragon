@@ -369,4 +369,41 @@ Certains paladins deviennent des **Oathbreakers** (briseurs de serment) - c'est 
 
 7. **Prends des notes.** Tu te remercieras dans 3 sessions.
 
+---
+
+## Template de notes de session
+
+```
+SESSION [#] - [Date]
+
+PNJ rencontrés:
+- [Nom] ([rôle], [impression])
+
+Lieux:
+- [Nom du lieu]
+
+Quête(s):
+- [Objectif] - Récompense: [X po]
+
+Loot:
+- [Objets importants]
+
+Notes/Indices:
+- [Observations, choses louches, hints du DM]
+
+Moments mémorables:
+- [Trucs drôles ou épiques]
+
+À faire la prochaine fois:
+- [Prochaine étape]
+```
+
+**Quoi noter en priorité:**
+- Noms des PNJ (tu vas les revoir!)
+- Quêtes et objectifs
+- Indices/mystères (le DM lâche des hints - note-les!)
+- Loot important (objets magiques, clés, lettres)
+
+---
+
 **Bonne chance et bienvenue dans le hobby!** 🎲⚔️
