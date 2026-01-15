@@ -7,7 +7,7 @@
 **Classe**: Paladin 3
 **Serment**: Dévotion
 **Background**: Soldat (entraîné par Ser Gareth)
-**Alignement**: Loyal Bon ou Loyal Neutre
+**Alignement**: Loyal Bon (pragmatique, pas naïf)
 **Dieu**: Torm (Devoir, Loyauté, Sacrifice)
 **Âge**: 25 ans
 
@@ -76,14 +76,34 @@
 ### Channel Divinity (1 utilisation / repos court ou long)
 
 **Sacred Weapon** (Action)
-- Pendant 1 minute, ton arme brille
-- +CHA mod (+2) aux jets d'attaque
-- L'arme compte comme magique
+- Pendant 1 minute (= **10 rounds**), ton arme brille
+- +CHA mod (+2) aux jets d'attaque **en plus** de ton calcul normal
+- L'arme compte comme magique (dégâts magiques)
 - Lumière vive 20 ft, dim 20 ft supplémentaires
 
+**Calcul d'attaque:**
+```
+Normal:         d20 + FOR (+3) + Maîtrise (+2) = d20 + 5
+Sacred Weapon:  d20 + FOR (+3) + Maîtrise (+2) + CHA (+2) = d20 + 7 (dégâts magiques)
+```
+
+*Quand l'utiliser:*
+| Situation | Sacred Weapon? |
+|-----------|----------------|
+| Boss avec haute CA | ✅ Oui |
+| Fantôme/démon (résistance aux armes normales) | ✅ Oui |
+| Combat dans le noir | ✅ Oui |
+| Gobelins faciles | ❌ Non, garde-le |
+| Tu veux lancer Bless round 1 | ❌ Non, choisis Bless |
+| Plusieurs combats avant repos | ⚠️ Garde-le pour le pire |
+
+> **Conseil:** Round 1, lance souvent **Bless** (aide tout le groupe). Garde Sacred Weapon pour le gros combat ou les ennemis résistants aux armes normales.
+
 **Turn the Unholy** (Action)
-- Chaque fiélon/mort-vivant à 30 ft doit faire un save SAG
+- Chaque fiélon/mort-vivant à 30 ft doit faire un save SAG (DD 12)
 - Échec = fuit pendant 1 minute ou jusqu'à prendre des dégâts
+- Parfait contre une **horde** de zombies ou squelettes
+- Moins utile contre un seul ennemi puissant (utilise Sacred Weapon à la place)
 
 ### Sorts de Serment (toujours préparés, gratuits)
 - Protection from Evil and Good
@@ -95,8 +115,47 @@
 
 ### Divine Sense (Niveau 1)
 - **Utilisations**: 3/long repos (1 + CHA mod)
-- **Action**: Détecte célestes, fiélons, morts-vivants à 60 ft
-- Détecte aussi les lieux consacrés/profanés
+- **Action**: 1 Action (pas instantané)
+- **Durée**: Jusqu'à la fin de ton prochain tour (~6 secondes)
+- **Portée**: 60 ft (18 mètres) autour de toi
+- **Détecte**: Célestes, fiélons, morts-vivants + lieux/objets consacrés ou profanés
+- **Ne traverse pas** les murs épais (couverture totale)
+
+**Ce que tu apprends exactement:**
+- ✅ Présence (il y a quelque chose? oui/non)
+- ✅ Localisation (direction + distance approximative)
+- ✅ Type (céleste, fiélon, ou mort-vivant)
+- ❌ Pas le nombre exact
+- ❌ Pas la puissance
+- ❌ Pas l'identité précise
+
+**Exemple en jeu:**
+> **Toi:** "J'utilise Divine Sense avant d'entrer dans la crypte."
+> **DM:** "Tu sens plusieurs présences mort-vivantes, devant toi, peut-être à 40 pieds."
+
+*Quand l'utiliser:*
+| Situation | Divine Sense? |
+|-----------|---------------|
+| Avant d'entrer dans un endroit louche | ✅ Oui |
+| Tu suspectes un PNJ d'être un démon déguisé | ✅ Oui |
+| Vérifier si un lieu est safe pour se reposer | ✅ Oui |
+| Combat déjà commencé | ❌ Non, trop tard |
+| Exploration normale sans menace | ❌ Non, garde-le |
+
+**Pourquoi c'est utile - avantages tactiques:**
+
+| Avantage | Explication |
+|----------|-------------|
+| **Pas de surprise** | Vous entrez prêts, pas d'embuscade |
+| **Préparation** | Lance Bless AVANT d'entrer (dure 10 min) |
+| **Choix tactique** | Foncer? Envoyer un éclaireur? Contourner? Fuir? |
+| **Informer le groupe** | Les autres adaptent leurs sorts/tactiques |
+| **Démasquer un imposteur** | Le "noble" est en fait un démon |
+| **Repos sécurisé** | Vérifie qu'il n'y a rien de caché |
+
+**Comment le jouer en RP:**
+> *Aldric ferme les yeux, pose sa main sur le symbole de Torm, et se concentre.*
+> Après: "Morts-vivants. Plusieurs. Devant. On se prépare."
 
 ### Lay on Hands (Niveau 1)
 - **Pool**: 15 HP (5 × niveau 3)
@@ -152,6 +211,19 @@
 - **Outils**: Jeu de cartes, véhicules terrestres
 - **Langues**: Commun (+ 1 de Humain Variant)
 
+#### Pourquoi "Soldat"?
+
+Ser Gareth était un **vétéran de guerre** avant de devenir Paladin de Torm. Pendant 15 ans, il a transmis à Aldric non seulement la foi, mais aussi tout ce qu'il savait du combat militaire: tactique, discipline, survie, commandement.
+
+Pour financer leur vie simple et servir Torm concrètement, Gareth et Aldric faisaient régulièrement des **missions d'escorte** - marchands, pèlerins, parfois des nobles. C'est sur ces routes qu'Aldric a fait ses armes: embuscades de bandits, gardes de nuit, gestion de crise. Il a appris le métier de soldat sur le terrain, pas dans une caserne.
+
+C'est d'ailleurs pendant une de ces missions d'escorte qu'Aldric était absent quand le mercenaire des Trois Griffes a tué Gareth.
+
+**En jeu:**
+- Les soldats et mercenaires reconnaissent ta discipline et tes réflexes
+- Certains marchands ou caravaniers des routes de l'est pourraient te reconnaître
+- Tu connais les dangers des routes: points d'embuscade, rythme de marche, tours de garde
+
 ### Maîtrise de Humain Variant
 - **Compétence bonus**: Persuasion
 
@@ -179,8 +251,9 @@
 ### Objets Précieux (ne quittent jamais Aldric)
 - **Pendentif de Kira** - le seul souvenir de sa sœur, récupéré sur son corps, porté autour du cou
 - **Symbole sacré de Torm** - médaillon de Ser Gareth, fixé au bouclier mais amovible (peut être transféré)
+- **Médaillon des Trois Griffes** - bronze, trois griffes sur un œil fermé. Trouvé près du corps de Gareth. Sa seule piste vers les assassins de son mentor. Gardé dans une poche intérieure.
 
-> *Kira près du cœur. Gareth sur le bouclier qui protège les autres.*
+> *Kira près du cœur. Gareth sur le bouclier. Les Trois Griffes dans l'ombre - un jour, il saura.*
 
 ### Autre
 - Pack d'explorateur
@@ -262,11 +335,15 @@ Par culpabilité, par devoir, ou peut-être parce que Torm le lui demandait, Gar
 
 ### La Mort du Mentor (il y a 5 ans)
 
-Un jour, un mercenaire a cherché Aldric. Pourquoi? Aldric ne le sait toujours pas.
+Aldric était parti trois jours pour escorter un convoi de pèlerins - une mission de routine que Gareth lui avait confiée seul, signe de confiance.
 
-Ser Gareth a été capturé. Torturé. Il n'a jamais révélé où se trouvait son élève. Aldric a trouvé son corps trois jours plus tard.
+À son retour, il a trouvé Ser Gareth attaché à une chaise, mort depuis au moins deux jours. Des marques de torture couvraient son corps: brûlures, doigts brisés. On lui avait posé des questions. Gareth n'avait pas parlé.
 
-Le mercenaire? Disparu. La raison de cette traque? Un mystère qui hante encore Aldric.
+Sur la table, posé bien en évidence comme une signature, un **médaillon de bronze**: trois griffes parallèles gravées sur un œil fermé. Le symbole d'une guilde de mercenaires - **les Trois Griffes**.
+
+Les villageois ont décrit l'homme: seul, très équipé, parlant comme un soldat. Il avait posé des questions précises sur Aldric et sur le massacre de son village d'enfance. Puis il était parti vers l'est, sans se presser, comme quelqu'un qui a tout son temps.
+
+Le médaillon est maintenant la seule piste d'Aldric. Qui sont les Trois Griffes? Pourquoi cherchaient-ils Aldric? Le massacre de son village était-il vraiment l'œuvre d'orcs au hasard?
 
 ### Aujourd'hui (25 ans)
 
@@ -280,7 +357,13 @@ Sa mission: **éradiquer le mal sous toutes ses formes**. Et peut-être un jour,
 
 ### Mystère non résolu (pour le DM)
 
-> *Pourquoi un mercenaire cherchait-il Aldric? Le massacre du village était-il vraiment aléatoire? Qui a commandité cette traque? Le mercenaire est-il encore en vie?*
+> *Qui sont les Trois Griffes? Pourquoi cherchaient-ils Aldric? Le massacre du village était-il vraiment l'œuvre d'orcs au hasard, ou commandité? Le mercenaire est-il encore en vie? Qu'est-ce que Gareth a refusé de révéler sous la torture?*
+
+**Indices concrets:**
+- Le **médaillon des Trois Griffes** (bronze, trois griffes sur un œil fermé) - peut être reconnu dans certains milieux
+- Le mercenaire est parti vers **l'est**
+- Il parlait **comme un soldat** - formation militaire probable
+- Il posait des questions sur le **massacre du village** - lien avec le passé d'Aldric
 
 ---
 
@@ -382,6 +465,97 @@ Aldric juge sur les **actes**, pas les paroles ou la classe. Un roublard loyal g
 | Serment | Pourquoi |
 |---------|----------|
 | Oathbreaker | A brisé son serment. Traître. Pas de pitié. |
+
+### Aldric face à un Sorcerer/Warlock
+
+Un allié du groupe est Sorcerer/Warlock multiclassé. Voici comment Aldric réagit:
+
+**Première impression: Méfiance**
+- **Sorcerer** = Pouvoir arcanique inné, imprévisible
+- **Warlock** = A fait un pacte avec une entité... Suspect.
+
+**Comment le jouer (première rencontre):**
+- Regard scrutateur, silence
+- Observe plus qu'il ne parle
+- Garde une distance physique
+- Questions directes sur l'origine de ses pouvoirs
+
+**Phrases typiques:**
+- *silence, il observe*
+- "D'où viennent tes pouvoirs?"
+- "À qui dois-tu tes dons?"
+- "Je garde un œil sur toi."
+
+**Langage corporel:**
+- Main qui reste près de l'épée (pas dessus, juste proche)
+- Ne tourne jamais le dos au début
+- Positionné pour intervenir si ça dérape
+
+**Ce qui peut changer son opinion:**
+
+| Il fait ça... | Aldric pense... |
+|---------------|-----------------|
+| Protège un innocent | "Peut-être qu'il est fiable." |
+| Se sacrifie pour le groupe | Respect immédiat |
+| Utilise ses pouvoirs pour le bien | "L'origine compte moins que l'usage." |
+| Ment ou manipule | Méfiance confirmée |
+| Trahit le groupe | Ennemi. Pas de seconde chance. |
+
+**Évolution possible:**
+- Session 1-2: Méfiant, le surveille
+- Session 3-5: Neutre, attend de voir
+- Après une preuve de loyauté: Respect prudent, allié
+
+**Phrase de réconciliation (après qu'il ait prouvé sa valeur):**
+> *"Je ne comprends pas d'où vient ton pouvoir. Mais tu l'utilises bien. C'est ce qui compte."*
+
+### Aldric face à un Roublard
+
+Un allié du groupe est Roublard. Voici comment Aldric réagit:
+
+**Première impression: Méfiance modérée**
+- Les Roublards mentent, volent, manipulent
+- C'est l'opposé des valeurs de Torm (honnêteté, honneur)
+- Mais Aldric est pragmatique - il sait qu'un Roublard est utile
+
+**Différence avec le Warlock:**
+- Warlock = suspect à cause de son **pacte avec une entité** (dangereux)
+- Roublard = suspect à cause de ses **méthodes** (agaçant, mais pas menaçant)
+
+Le Roublard est moins "dangereux" aux yeux d'Aldric. C'est quelqu'un qui opère différemment, pas quelqu'un qui a fait un deal louche.
+
+**Comment le jouer (première rencontre):**
+- Moins tendu qu'avec le Warlock
+- Observe comment il interagit avec les autres
+- Vérifie ses poches après une conversation (réflexe)
+- Direct sur ses attentes
+
+**Phrases typiques:**
+- "Je ne te demande pas d'être honnête avec les autres. Mais avec moi, oui."
+- "Tant que tu voles les bonnes personnes."
+- "Tu fais ce que tu veux dans l'ombre. Mais pas dans mon dos."
+- *regard appuyé quand le Roublard ment à quelqu'un*
+
+**Ce qui peut changer son opinion:**
+
+| Il fait ça... | Aldric pense... |
+|---------------|-----------------|
+| Reste loyal au groupe | "Il a un code, à sa façon." |
+| Utilise ses talents pour la mission | Respect pour l'efficacité |
+| Protège quelqu'un de vulnérable | "Il y a du bon en lui." |
+| Ment à Aldric directement | Confiance brisée, difficile à réparer |
+| Vole un allié ou un innocent | Confrontation directe |
+
+**Évolution possible:**
+- Session 1-2: Méfiance, le surveille du coin de l'œil
+- Session 3-5: Tolérance, accepte ses méthodes
+- Après une preuve de loyauté: Respect, complémentarité
+
+**Phrase de respect (après qu'il ait prouvé sa valeur):**
+> *"Tu opères dans l'ombre. Moi dans la lumière. Ensemble, on couvre tous les angles."*
+
+**Dynamique intéressante:**
+Aldric (tank frontal, honnête, discipline) + Roublard (furtif, rusé, flexible) = complémentaires. Aldric attire l'attention, le Roublard frappe dans le dos. Ça peut créer une belle synergie en combat et une tension amusante en RP.
 
 ---
 

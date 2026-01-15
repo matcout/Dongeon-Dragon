@@ -19,7 +19,7 @@ Ce repo appartient à **Mathieu**, un **débutant total** en D&D 5e qui va jouer
 ## Backstory d'Aldric
 
 ### Résumé
-Orphelin à 5 ans après un massacre d'orcs, Aldric a vu sa sœur Kira se faire égorger. Élevé pendant 15 ans par Ser Gareth, un Paladin de Torm, il a perdu son mentor il y a 5 ans - torturé et tué par un mercenaire qui cherchait Aldric pour une raison inconnue.
+Orphelin à 5 ans après un massacre d'orcs, Aldric a vu sa sœur Kira se faire égorger. Élevé pendant 15 ans par Ser Gareth, un Paladin de Torm, il a perdu son mentor il y a 5 ans. De retour d'une mission d'escorte, Aldric a trouvé Gareth torturé et tué. Près du corps: un médaillon de bronze des **Trois Griffes** (guilde de mercenaires), laissé comme signature. Les villageois ont décrit un homme seul, très équipé, parlant comme un soldat, qui posait des questions sur Aldric et sur le massacre de son village.
 
 ### Personnages clés
 | Qui | Relation | Statut |
@@ -27,17 +27,19 @@ Orphelin à 5 ans après un massacre d'orcs, Aldric a vu sa sœur Kira se faire 
 | **Kira** | Sœur (9 ans au massacre) | Morte - l'a caché dans un coffre |
 | **Aldwin** | Père | Mort (massacre) |
 | **Lena** | Mère | Morte (massacre) |
-| **Ser Gareth** | Mentor, figure paternelle | Mort (torturé par mercenaire) |
+| **Ser Gareth** | Mentor, figure paternelle | Mort (torturé par un mercenaire des Trois Griffes) |
 
 ### Objets importants
 - **Pendentif de Kira** - récupéré sur son corps, ne le quitte jamais
 - **Symbole de Torm de Gareth** - sert de focaliseur divin
+- **Médaillon des Trois Griffes** - bronze, trois griffes sur un œil fermé. Trouvé près du corps de Gareth. Sa seule piste.
 
 ### Mystère non résolu (hooks pour le DM)
-- Pourquoi un mercenaire cherchait-il Aldric?
-- Le massacre du village était-il vraiment aléatoire?
-- Qui a commandité cette traque?
-- Le mercenaire est-il encore en vie?
+- Qui sont les **Trois Griffes**?
+- Pourquoi cherchaient-ils Aldric?
+- Le massacre du village était-il vraiment l'œuvre d'orcs au hasard, ou commandité?
+- Le mercenaire est-il encore en vie? (parti vers l'est)
+- Qu'est-ce que Gareth a refusé de révéler sous la torture?
 
 ---
 
