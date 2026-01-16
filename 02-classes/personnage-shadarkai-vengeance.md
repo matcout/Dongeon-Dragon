@@ -58,7 +58,7 @@
 | À distance | 5 javelots | 1d6 + FOR, portée 30/120 |
 | Focaliseur | Symbole sacré (corbeau en obsidienne) | Pour sorts |
 | Pack | Pack d'explorateur | Équipement d'aventurier |
-| Objet spécial | **Pendentif de Nyra** | Cristal d'ombre de sa sœur |
+| Objet spécial | **Pendentif de Kira** | Cristal d'ombre de sa sœur |
 
 **CA totale: 18** (16 armure + 2 bouclier)
 
@@ -141,9 +141,13 @@
 
 ## Backstory
 
+### L'attaque du village
+
+Quand il était jeune, le village de Kael'thar, dans le Shadowfell, a été attaqué par un seigneur vampire. Tous ceux qu'il connaissait ont été massacrés. Sa sœur **Kira** l'a protégé en le cachant dans une cache derrière un mur, et il l'a vue se faire égorger à travers une fente. Avant de quitter le village, Kael'thar a pris le pendentif qu'elle portait et le garde depuis toujours.
+
 ### Résumé
 
-Kael'thar était un jeune guerrier d'un clan Shadar-kai du Shadowfell. À 5 ans, il a vu sa sœur **Nyra** se faire égorger lors d'un raid de **vampires** au service d'un seigneur mort-vivant. Il s'est caché, impuissant.
+Kael'thar était un jeune enfant d'un clan Shadar-kai du Shadowfell. Il a survécu au massacre grâce au sacrifice de sa sœur **Kira**.
 
 Recueilli par **Varek**, un vieux Paladin Shadar-kai exilé qui servait la Raven Queen, il a été entraîné pendant 15 ans. Varek lui a appris que la mort est naturelle - mais que ceux qui la refusent (morts-vivants) ou la corrompent (nécromanciens) doivent être chassés.
 
@@ -155,7 +159,7 @@ Il a juré vengeance. Il traque maintenant ce vampire à travers les plans.
 
 | Qui | Relation | Statut |
 |-----|----------|--------|
-| **Nyra** | Sœur | Morte (égorgée par un vampire) |
+| **Kira** | Sœur | Morte (égorgée par un vampire) |
 | **Varek** | Mentor | Mort (torturé, assassiné) |
 | **Le Seigneur Vampire** | Antagoniste | En vie (traqué) |
 | **Le clan** | Famille | Massacré |
@@ -164,7 +168,7 @@ Il a juré vengeance. Il traque maintenant ce vampire à travers les plans.
 
 | Objet | Signification |
 |-------|---------------|
-| **Pendentif de Nyra** | Cristal d'ombre qu'elle portait. Froid au toucher. |
+| **Pendentif de Kira** | Cristal d'ombre qu'elle portait. Froid au toucher. |
 | **Symbole de Varek** | Corbeau en obsidienne. Focaliseur divin. |
 | **Symbole du vampire** | Trouvé près du corps de Varek. Sa seule piste. |
 

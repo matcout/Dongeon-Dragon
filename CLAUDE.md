@@ -37,22 +37,23 @@ Ce repo appartient à **Mathieu**, un **débutant** en D&D 5e qui va jouer sa pr
 
 ## Backstory
 
-### Résumé
-Kael'thar était un jeune guerrier d'un clan Shadar-kai du Shadowfell. À 5 ans, il a vu sa sœur **Nyra** se faire égorger lors d'un raid de **vampires**. Recueilli par **Varek**, un Paladin de la Raven Queen, il a été entraîné pendant 15 ans.
+### L'attaque du village
+Quand il était jeune, le village de Kael'thar dans le Shadowfell a été attaqué par un seigneur vampire. Sa sœur **Kira** l'a protégé en le cachant derrière un mur, et il l'a vue se faire égorger à travers une fente. Avant de quitter le village, il a pris le pendentif qu'elle portait.
 
-Il y a 5 ans, il a trouvé Varek torturé et tué. Près du corps: le même symbole que sur l'armure du vampire qui a tué sa sœur 20 ans plus tôt.
+### Résumé
+Recueilli par **Varek**, un Paladin de la Raven Queen, il a été entraîné pendant 15 ans. Il y a 5 ans, il a trouvé Varek torturé et tué. Près du corps: le même symbole que sur l'armure du vampire qui a tué sa sœur.
 
 Il traque maintenant ce **Seigneur Vampire** à travers les plans.
 
 ### Personnages clés
 | Qui | Relation | Statut |
 |-----|----------|--------|
-| **Nyra** | Sœur | Morte (vampire) |
+| **Kira** | Sœur | Morte (vampire) |
 | **Varek** | Mentor, Paladin Raven Queen | Mort (torturé) |
 | **Le Seigneur Vampire** | Antagoniste | En vie (traqué) |
 
 ### Objets importants
-- **Pendentif de Nyra** - Cristal d'ombre, objet macabre (Haunted One)
+- **Pendentif de Kira** - Cristal d'ombre, objet macabre (Haunted One)
 - **Symbole de Varek** - Corbeau en obsidienne, focaliseur divin
 
 ### Mystères (hooks DM)
