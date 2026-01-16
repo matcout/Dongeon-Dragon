@@ -53,8 +53,8 @@ Il traque maintenant ce **Seigneur Vampire** à travers les plans.
 | **Le Seigneur Vampire** | Antagoniste | En vie (traqué) |
 
 ### Objets importants
-- **Pendentif de Kira** - Cristal d'ombre, objet macabre (Haunted One)
-- **Symbole de Varek** - Corbeau en obsidienne, focaliseur divin
+- **Pendentif de Kira** - Cristal d'ombre porté au cou, objet fétiche (Haunted One)
+- **Broche de Varek** - Corbeau noir stylisé, incrustée au bouclier, focus divin pour sorts
 
 ### Mystères (hooks DM)
 - Qui est le Seigneur Vampire?

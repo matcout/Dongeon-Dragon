@@ -53,12 +53,12 @@
 | Slot | Équipement | Effet |
 |------|------------|-------|
 | Arme principale | Épée longue | 1d8 + FOR + 2 (Dueling) |
-| Bras gauche | Bouclier | +2 CA |
+| Bras gauche | Bouclier avec broche incrustée | +2 CA, porte le symbole sacré |
 | Armure | Cotte de mailles | CA 16 |
 | À distance | 5 javelots | 1d6 + FOR, portée 30/120 |
-| Focaliseur | Symbole sacré (corbeau en obsidienne) | Pour sorts |
+| Focaliseur | **Broche de Varek** (incrustée au bouclier) | Corbeau noir stylisé, focus divin pour sorts |
 | Pack | Pack d'explorateur | Équipement d'aventurier |
-| Objet spécial | **Pendentif de Kira** | Cristal d'ombre de sa sœur |
+| Objet fétiche | **Pendentif de Kira** (porté au cou) | Cristal d'ombre, objet macabre Haunted One |
 
 **CA totale: 18** (16 armure + 2 bouclier)
 
@@ -168,8 +168,8 @@ Il a juré vengeance. Il traque maintenant ce vampire à travers les plans.
 
 | Objet | Signification |
 |-------|---------------|
-| **Pendentif de Kira** | Cristal d'ombre qu'elle portait. Froid au toucher. |
-| **Symbole de Varek** | Corbeau en obsidienne. Focaliseur divin. |
+| **Pendentif de Kira** | Cristal d'ombre qu'elle portait. Froid au toucher. Kael'thar le porte toujours autour du cou — c'est son objet fétiche (Haunted One). |
+| **Broche de Varek** | Corbeau noir stylisé, symbole sacré de la Raven Queen. Varek l'a léguée à Kael'thar avant sa mort. Kael l'a fait incruster sur son bouclier et s'en sert comme focus divin pour lancer ses sorts de paladin. |
 | **Symbole du vampire** | Trouvé près du corps de Varek. Sa seule piste. |
 
 ### Mystères non résolus (hooks DM)
