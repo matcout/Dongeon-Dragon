@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Aide-Mémoire Sorts Paladin - Aldric</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            font-size: 11px;
+            line-height: 1.4;
+            padding: 15px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 18px;
+            text-align: center;
+            margin-bottom: 5px;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        h2 {
+            font-size: 14px;
+            background: #2c3e50;
+            color: white;
+            padding: 5px 10px;
+            margin: 10px 0 5px 0;
+        }
+        h3 {
+            font-size: 12px;
+            color: #2c3e50;
+            margin: 8px 0 3px 0;
+            border-left: 3px solid #3498db;
+            padding-left: 8px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .spell-box {
+            border: 1px solid #ddd;
+            padding: 8px;
+            margin-bottom: 8px;
+            background: #fafafa;
+            page-break-inside: avoid;
+        }
+        .spell-box.recommended {
+            border-left: 4px solid #27ae60;
+            background: #f0fff4;
+        }
+        .spell-box.oath {
+            border-left: 4px solid #f39c12;
+            background: #fffbf0;
+        }
+        .spell-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .spell-name {
+            font-weight: bold;
+            font-size: 12px;
+        }
+        .spell-name .star { color: #f39c12; }
+        .spell-name .recommended-star { color: #27ae60; }
+        .spell-stats {
+            display: flex;
+            gap: 15px;
+            font-size: 10px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        .spell-stats span {
+            background: #eee;
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+        .spell-stats .bonus-action {
+            background: #e74c3c;
+            color: white;
+        }
+        .effect {
+            margin-top: 5px;
+        }
+        .effect strong { color: #c0392b; }
+        .note {
+            font-style: italic;
+            color: #666;
+            font-size: 10px;
+            margin-top: 3px;
+        }
+        .upcast {
+            font-size: 10px;
+            color: #8e44ad;
+            margin-top: 3px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 5px 0;
+            font-size: 10px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 4px 8px;
+            text-align: left;
+        }
+        th { background: #ecf0f1; }
+        .reminder-box {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        .reminder-box h3 {
+            border: none;
+            padding: 0;
+            margin: 0 0 5px 0;
+        }
+        .selection-box {
+            background: #d4edda;
+            border: 2px solid #28a745;
+            padding: 10px;
+            margin-top: 10px;
+        }
+        .two-columns {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+        @media print {
+            body { padding: 10px; }
+            .spell-box { break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+
+<h1>Aide-Mémoire Sorts Paladin Niveau 1</h1>
+<p class="subtitle">Aldric - Paladin Dévotion Niveau 3</p>
+
+<h2>SORTS DE SERMENT (Toujours préparés - GRATUITS)</h2>
+
+<div class="spell-box oath">
+    <div class="spell-header">
+        <span class="spell-name"><span class="star">★</span> Protection contre le Mal et le Bien</span>
+    </div>
+    <div class="spell-stats">
+        <span>Portée: Contact</span>
+        <span>Durée: Conc. 10 min</span>
+        <span>Action</span>
+    </div>
+    <div class="effect">
+        Cible a <strong>AVANTAGE</strong> aux saves vs aberrations, célestes, élémentaires, fées, fiélons, morts-vivants. Ces créatures ont <strong>DÉSAVANTAGE</strong> pour l'attaquer.
+    </div>
+</div>
+
+<div class="spell-box oath">
+    <div class="spell-header">
+        <span class="spell-name"><span class="star">★</span> Sanctuaire</span>
+    </div>
+    <div class="spell-stats">
+        <span>Portée: 9m</span>
+        <span>Durée: 1 minute</span>
+        <span class="bonus-action">Action BONUS</span>
+    </div>
+    <div class="effect">
+        Cible ne peut pas être attaquée. Attaquant doit réussir SAG save ou choisir autre cible. <strong>Brisé si la cible attaque.</strong>
+    </div>
+</div>
+
+<h2>SORTS À CHOISIR (Limite: 4 par jour)</h2>
+
+<div class="spell-box recommended">
+    <div class="spell-header">
+        <span class="spell-name"><span class="recommended-star">⭐</span> Bénédiction</span>
+    </div>
+    <div class="spell-stats">
+        <span>Portée: 9m</span>
+        <span>Durée: Conc. 1 min</span>
+        <span>Action</span>
+    </div>
+    <div class="effect">
+        3 créatures ajoutent <strong>+1d4</strong> à TOUS jets d'attaque et saves.
+    </div>
+    <div class="upcast">↑ Upcast: +1 cible par niveau de slot.</div>
+</div>
+
+<div class="spell-box recommended">
+    <div class="spell-header">
+        <span class="spell-name"><span class="recommended-star">⭐</span> Soins</span>
+    </div>
+    <div class="spell-stats">
+        <span>Portée: Contact</span>
+        <span>Durée: Instantané</span>
+        <span>Action</span>
+    </div>
+    <div class="effect">
+        Cible récupère <strong>1d8 + CHA</strong> HP.
+    </div>
+    <div class="upcast">↑ Upcast: +1d8 par niveau de slot.</div>
+</div>
+
+<div class="spell-box recommended">
+    <div class="spell-header">
+        <span class="spell-name"><span class="recommended-star">⭐</span> Bouclier de la Foi</span>
+    </div>
+    <div class="spell-stats">
+        <span>Portée: 18m</span>
+        <span>Durée: Conc. 10 min</span>
+        <span class="bonus-action">Action BONUS</span>
+    </div>
+    <div class="effect">
+        Cible gagne <strong>+2 CA</strong>.
+    </div>
+    <div class="note">Excellent premier tour de combat!</div>
+</div>
+
+<div class="two-columns">
+    <div class="spell-box">
+        <div class="spell-name">Châtiment Courroucé</div>
+        <div class="spell-stats">
+            <span>Perso</span>
+            <span>Conc. 1 min</span>
+            <span class="bonus-action">Bonus</span>
+        </div>
+        <div class="effect">
+            Prochaine attaque: <strong>+1d6 psychiques</strong>. Cible rate SAG = <strong>effrayée</strong>.
+        </div>
+    </div>
+
+    <div class="spell-box">
+        <div class="spell-name">Châtiment Tonnant</div>
+        <div class="spell-stats">
+            <span>Perso</span>
+            <span>Conc. 1 min</span>
+            <span class="bonus-action">Bonus</span>
+        </div>
+        <div class="effect">
+            Prochaine attaque: <strong>+2d6 tonnerre</strong>. Cible rate FOR = <strong>poussée 3m + à terre</strong>.
+        </div>
+    </div>
+
+    <div class="spell-box">
+        <div class="spell-name">Faveur Divine</div>
+        <div class="spell-stats">
+            <span>Perso</span>
+            <span>Conc. 1 min</span>
+            <span class="bonus-action">Bonus</span>
+        </div>
+        <div class="effect">
+            Toutes tes attaques font <strong>+1d4 radiants</strong>.
+        </div>
+    </div>
+
+    <div class="spell-box">
+        <div class="spell-name">Frappe Lumineuse</div>
+        <div class="spell-stats">
+            <span>Perso</span>
+            <span>Conc. 1 min</span>
+            <span class="bonus-action">Bonus</span>
+        </div>
+        <div class="effect">
+            Prochaine attaque: <strong>+1d6 feu</strong>. Cible prend feu = <strong>1d6/tour</strong>.
+        </div>
+    </div>
+
+    <div class="spell-box">
+        <div class="spell-name">Commandement</div>
+        <div class="spell-stats">
+            <span>18m</span>
+            <span>1 round</span>
+            <span>Action</span>
+        </div>
+        <div class="effect">
+            Ordre 1 mot. Rate SAG = obéit. <strong>"Fuis" "Tombe" "Approche" "Lâche"</strong>
+        </div>
+    </div>
+
+    <div class="spell-box">
+        <div class="spell-name">Héroïsme</div>
+        <div class="spell-stats">
+            <span>Contact</span>
+            <span>Conc. 1 min</span>
+            <span>Action</span>
+        </div>
+        <div class="effect">
+            Cible <strong>immunisée peur</strong> + <strong>CHA HP temp</strong> chaque tour.
+        </div>
+    </div>
+
+    <div class="spell-box">
+        <div class="spell-name">Détection Mal/Bien</div>
+        <div class="spell-stats">
+            <span>Perso</span>
+            <span>Conc. 10 min</span>
+            <span>Action</span>
+        </div>
+        <div class="effect">
+            Sens aberrations, célestes, élémentaires, fées, fiélons, morts-vivants dans <strong>9m</strong>.
+        </div>
+    </div>
+
+    <div class="spell-box">
+        <div class="spell-name">Détection Magie (Rituel)</div>
+        <div class="spell-stats">
+            <span>Perso</span>
+            <span>Conc. 10 min</span>
+            <span>Action/10min</span>
+        </div>
+        <div class="effect">
+            Sens la magie dans 9m. <strong>Rituel = SANS slot</strong> si 10 min.
+        </div>
+    </div>
+</div>
+
+<div class="reminder-box">
+    <h3>RAPPELS IMPORTANTS</h3>
+    <table>
+        <tr><td><strong>Slots niveau 1</strong></td><td>3</td><td><strong>DD sauvegarde</strong></td><td>8 + 2 + CHA</td></tr>
+        <tr><td><strong>Sorts préparés</strong></td><td>4 + 2 serment = 6</td><td><strong>Bonus attaque sort</strong></td><td>2 + CHA</td></tr>
+    </table>
+    <p style="margin-top: 8px;"><strong>Divine Smite:</strong> Après avoir TOUCHÉ → Slot niv.1 = <strong>+2d8</strong> | Slot niv.2 = <strong>+3d8</strong> | vs Mort-vivant/Fiélon = <strong>+1d8 bonus</strong></p>
+</div>
+
+</body>
+</html>

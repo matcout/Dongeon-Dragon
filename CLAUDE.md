@@ -158,6 +158,7 @@ Il traque maintenant ce **Seigneur Vampire** à travers les plans.
 | Fichier | Contenu |
 |---------|---------|
 | `02-classes/personnage-shadarkai-vengeance.md` | Fiche complète du nouveau perso |
+| `04-ressources/aide-memoire-kaelthar.md` | Aide-mémoire combat, sorts, capacités |
 | `04-ressources/raven-queen-guide.md` | Guide Raven Queen + relation avec le perso |
 | `02-classes/mon-personnage.md` | Ancien perso (Aldric - Humain Dévotion) |
 | `04-ressources/sorts-paladin-francais.md` | Sorts en français |
