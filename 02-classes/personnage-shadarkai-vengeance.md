@@ -53,7 +53,7 @@
 | Slot | Équipement | Effet |
 |------|------------|-------|
 | Arme principale | Épée longue | 1d8 + 6 (FOR +4, Dueling +2) |
-| Bras gauche | Bouclier avec broche incrustée | +2 CA, porte le symbole sacré |
+| Bras gauche | **Sentinel Shield** (broche de Varek incrustée) | +2 CA, Avantage Initiative + Perception |
 | Armure | Cotte de mailles | CA 16 |
 | À distance | 5 javelots | 1d6 + FOR, portée 30/120 |
 | Focaliseur | **Broche de Varek** (incrustée au bouclier) | Corbeau noir stylisé, focus divin pour sorts |
