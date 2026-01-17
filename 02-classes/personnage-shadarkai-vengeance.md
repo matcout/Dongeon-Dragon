@@ -52,7 +52,7 @@
 
 | Slot | Équipement | Effet |
 |------|------------|-------|
-| Arme principale | Épée longue | 1d8 + FOR + 2 (Dueling) |
+| Arme principale | Épée longue | 1d8 + 6 (FOR +4, Dueling +2) |
 | Bras gauche | Bouclier avec broche incrustée | +2 CA, porte le symbole sacré |
 | Armure | Cotte de mailles | CA 16 |
 | À distance | 5 javelots | 1d6 + FOR, portée 30/120 |
@@ -62,24 +62,22 @@
 
 **CA totale: 18** (16 armure + 2 bouclier)
 
+**HP: 31** (10 + 6 + 6 + CON×3)
+
 ---
 
-## Stats (À ROLLER)
+## Stats
 
-**Méthode:** 4d6 drop lowest, reroll les 1
+| Stat | Base | Race | 1-pour-1 | **Final** | **Mod** |
+|------|------|------|----------|-----------|---------|
+| **FOR** | 15 | +2 | +1 | **18** | **+4** |
+| **CHA** | 15 | +1 | - | **16** | **+3** |
+| **CON** | 15 | - | +1 | **16** | **+3** |
+| **SAG** | 14 | - | - | **14** | **+2** |
+| **DEX** | 13 | - | - | **13** | **+1** |
+| **INT** | 11 | - | -2 | **9** | **-1** |
 
-**Ordre de priorité:**
-
-| Priorité | Stat | Objectif |
-|----------|------|----------|
-| 1er | **FOR** | 16+ |
-| 2e | **CHA** | 14+ |
-| 3e | **CON** | 14 |
-| 4e | SAG | 10-12 |
-| 5e | DEX | 10 |
-| 6e | INT | 8 |
-
-**Bonus race:** +2 / +1 à placer sur des nombres IMPAIRS pour maximiser.
+**Méthode utilisée:** 4d6 drop lowest, reroll les 1, puis +2/+1 race, puis 2× 1-pour-1
 
 ---
 
@@ -115,7 +113,7 @@
 | **Bane** | 3 cibles, -1d4 à leurs attaques et saves |
 | **Hunter's Mark** | +1d6 dégâts/attaque, avantage pour traquer |
 
-### Sorts préparés recommandés (CHA mod + 1)
+### Sorts préparés recommandés (4 sorts = CHA +3, niveau 3 ÷ 2 = 1)
 
 | Sort | Rôle |
 |------|------|
@@ -132,7 +130,7 @@
 |-----------|----------|--------------|
 | Slots de sorts (niv.1) | 3 | Long repos |
 | Lay on Hands | 15 HP | Long repos |
-| Divine Sense | 1 + CHA mod | Long repos |
+| Divine Sense | 4 (1 + CHA) | Long repos |
 | Channel Divinity | 1 | Court ou long repos |
 | Blessing of the Raven Queen | PB (2) | Long repos |
 | Dés de vie | 3d10 | Long repos (moitié) |
@@ -239,12 +237,11 @@ Colère froide et calculée quand on menace les siens ou quand il trouve une pis
 
 | Option | Effet |
 |--------|-------|
-| +2 FOR | Meilleur toucher et dégâts |
-| +1 FOR / +1 CHA | Équilibré |
-| **Sentinel** | Contrôle de zone |
-| Great Weapon Master | Si tu changes de style |
+| **+2 FOR** | FOR 18 → **20 (+5)** — Maximum! +7 attaque, +7 dégâts |
+| Sentinel | Contrôle de zone, réaction pour frapper |
+| +1 FOR / +1 CON | FOR 19, CON 17 (moins optimal) |
 
-**Recommandation:** +2 FOR ou Sentinel selon préférence.
+**Recommandation:** +2 FOR pour atteindre 20 FOR au niveau 4.
 
 ---
 

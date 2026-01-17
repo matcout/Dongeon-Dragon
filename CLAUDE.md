@@ -18,6 +18,7 @@ Ce repo appartient à **Mathieu**, un **débutant** en D&D 5e qui va jouer sa pr
 | **Historique** | Haunted One |
 | **Langue bonus** | Abyssal |
 | **CA** | 18 (cotte de mailles + bouclier) |
+| **HP** | 31 |
 
 ### Compétences maîtrisées
 - Intimidation (CHA) - Paladin
@@ -26,12 +27,16 @@ Ce repo appartient à **Mathieu**, un **débutant** en D&D 5e qui va jouer sa pr
 - Religion (INT) - Haunted One
 - Perception (SAG) - Shadar-kai (gratuit)
 
-### Stats
-**À roller:** 4d6 drop lowest, reroll les 1
+### Stats (finales)
 
-**Priorité:** FOR > CHA > CON > SAG > DEX > INT
-
-**Bonus race:** +2 / +1 (placer sur impairs)
+| Stat | Valeur | Mod |
+|------|--------|-----|
+| **FOR** | 18 | +4 |
+| **CHA** | 16 | +3 |
+| **CON** | 16 | +3 |
+| **SAG** | 14 | +2 |
+| **DEX** | 13 | +1 |
+| **INT** | 9 | -1 |
 
 ---
 
