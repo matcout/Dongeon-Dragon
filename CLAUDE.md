@@ -17,10 +17,10 @@ Ce repo appartient à **Mathieu**, un **débutant** en D&D 5e qui va jouer sa pr
 | **Style de combat** | Dueling (+2 dégâts) |
 | **Historique** | Haunted One |
 | **Langue bonus** | Orc |
-| **CA** | 18 (cotte de mailles + Sentinel Shield) |
+| **CA** | 18 (cotte de mailles + bouclier) |
 | **HP** | 31 |
-| **Initiative** | Avantage (Sentinel Shield) |
-| **Perception passive** | 19 (avantage = +5) |
+| **Initiative** | Avantage (Weapon of Warning) + alliés 30 pi |
+| **Perception passive** | 14 |
 
 ### Compétences maîtrisées
 - Intimidation (CHA) - Paladin

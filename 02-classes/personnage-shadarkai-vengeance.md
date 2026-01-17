@@ -52,8 +52,8 @@
 
 | Slot | Équipement | Effet |
 |------|------------|-------|
-| Arme principale | Épée longue | 1d8 + 6 (FOR +4, Dueling +2) |
-| Bras gauche | **Sentinel Shield** (broche de Varek incrustée) | +2 CA, Avantage Initiative + Perception |
+| Arme principale | **Weapon of Warning** (épée longue) | 1d8 + 6 (FOR +4, Dueling +2), Avantage Initiative groupe |
+| Bras gauche | Bouclier (broche de Varek incrustée) | +2 CA |
 | Armure | Cotte de mailles | CA 16 |
 | À distance | 5 javelots | 1d6 + FOR, portée 30/120 |
 | Focaliseur | **Broche de Varek** (incrustée au bouclier) | Corbeau noir stylisé, focus divin pour sorts |
@@ -68,18 +68,17 @@
 
 ## Objet magique
 
-### Sentinel Shield (Uncommon)
+### Weapon of Warning - Épée longue (Uncommon)
 
 | Propriété | Effet |
 |-----------|-------|
-| **Type** | Bouclier |
-| **Attunement** | Non requis |
-| **CA** | +2 (normal) |
-| **Avantage Initiative** | Roule 2d20, garde le meilleur |
-| **Avantage Perception** | Roule 2d20, garde le meilleur |
-| **Perception passive** | 14 → **19** (+5 grâce à l'avantage) |
+| **Type** | Épée longue |
+| **Attunement** | Oui (1 slot utilisé) |
+| **Dégâts** | 1d8 + 6 (normal) |
+| **Avantage Initiative** | Toi **+ alliés dans 30 pi** |
+| **Réveil automatique** | Alliés se réveillent si combat pendant repos |
 
-**Apparence:** Bouclier avec un symbole d'œil. La broche de Varek (corbeau noir) y est incrustée.
+**Effet:** Tant que l'arme est à portée et que tu es harmonisé, toi et tes alliés dans 30 pieds avez avantage sur les jets d'initiative.
 
 ---
 
