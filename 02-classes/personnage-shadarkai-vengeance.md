@@ -196,6 +196,10 @@ Il a juré vengeance. Il traque maintenant ce vampire à travers les plans.
 
 Colère froide et calculée quand on menace les siens ou quand il trouve une piste vers le vampire.
 
+### Trait de background: Heart of Darkness
+
+Les gens ordinaires reconnaissent que tu as vécu quelque chose de terrible. Ils t'aident, toi et tes compagnons, en offrant abri, nourriture et assistance — tant que tu ne représentes pas un danger évident pour eux.
+
 ### Phrases typiques
 
 - *"..."* (silence)
