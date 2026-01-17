@@ -16,7 +16,7 @@ Ce repo appartient à **Mathieu**, un **débutant** en D&D 5e qui va jouer sa pr
 | **Serment** | Vengeance |
 | **Style de combat** | Dueling (+2 dégâts) |
 | **Historique** | Haunted One |
-| **Langue bonus** | Abyssal |
+| **Langue bonus** | Orc |
 | **CA** | 18 (cotte de mailles + bouclier) |
 | **HP** | 31 |
 

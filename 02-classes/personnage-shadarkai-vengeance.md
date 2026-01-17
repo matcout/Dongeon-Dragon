@@ -44,7 +44,7 @@
 
 - **Commun** (standard)
 - **Elfique** (Shadar-kai)
-- **Abyssal** (Haunted One)
+- **Orc** (Haunted One)
 
 ---
 
