@@ -66,6 +66,23 @@
 
 ---
 
+## Objet magique
+
+### Sentinel Shield (Uncommon)
+
+| Propriété | Effet |
+|-----------|-------|
+| **Type** | Bouclier |
+| **Attunement** | Non requis |
+| **CA** | +2 (normal) |
+| **Avantage Initiative** | Roule 2d20, garde le meilleur |
+| **Avantage Perception** | Roule 2d20, garde le meilleur |
+| **Perception passive** | 14 → **19** (+5 grâce à l'avantage) |
+
+**Apparence:** Bouclier avec un symbole d'œil. La broche de Varek (corbeau noir) y est incrustée.
+
+---
+
 ## Stats
 
 | Stat | Base | Race | 1-pour-1 | **Final** | **Mod** |
