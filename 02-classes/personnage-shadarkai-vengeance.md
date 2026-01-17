@@ -68,7 +68,7 @@
 
 ## Objet magique
 
-### Weapon of Warning - Épée longue (Uncommon)
+### Weapon of Warning - "Murmure de Kira" (Uncommon)
 
 | Propriété | Effet |
 |-----------|-------|
@@ -79,6 +79,24 @@
 | **Réveil automatique** | Alliés se réveillent si combat pendant repos |
 
 **Effet:** Tant que l'arme est à portée et que tu es harmonisé, toi et tes alliés dans 30 pieds avez avantage sur les jets d'initiative.
+
+#### Apparence
+
+Épée longue aux runes rougeoyantes gravées sur la lame. Une gemme écarlate orne le pommeau, pulsant faiblement quand le danger approche. Des volutes d'énergie cramoisie semblent danser autour de la lame dans l'obscurité.
+
+#### Histoire de l'arme
+
+Au cœur d'un ancien sanctuaire oublié, Kael'thar monta la garde toute une nuit auprès d'un autel brisé, jurant de protéger les voyageurs qui s'y réfugiaient. À l'aube, alors que le silence semblait total, la lame posée sur l'autel vibra soudainement, murmurant un avertissement divin.
+
+Grâce à ce frisson prémonitoire, Kael'thar repoussa une embuscade de créatures tapies dans l'ombre. Reconnaissant sa vigilance et sa foi, l'esprit gardien du sanctuaire lia l'arme à son serment.
+
+Depuis ce jour, la lame veille avec lui, l'avertissant toujours du danger avant qu'il ne frappe.
+
+#### Le lien avec Kira
+
+Quand le danger approche pendant le sommeil, ce n'est pas la lame qui réveille Kael'thar et ses alliés — c'est **l'esprit de Kira**, sa sœur défunte. Sa voix murmure doucement à l'oreille de ceux qu'elle protège, les tirant du sommeil juste avant que le danger ne frappe.
+
+> *"Lève-toi, petit frère. Ils arrivent."*
 
 ---
 
