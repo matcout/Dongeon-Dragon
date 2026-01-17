@@ -68,7 +68,7 @@
 
 ## Objet magique
 
-### Weapon of Warning - "Murmure de Kira" (Uncommon)
+### Weapon of Warning - "Éveil de Kira" (Uncommon)
 
 | Propriété | Effet |
 |-----------|-------|
@@ -82,7 +82,7 @@
 
 #### Apparence
 
-![Murmure de Kira](../images/murmure-de-kira.png)
+![Éveil de Kira](../images/eveil-de-kira.png)
 
 Épée longue aux runes rougeoyantes gravées sur la lame. Une gemme écarlate orne le pommeau, pulsant faiblement quand le danger approche. Des volutes d'énergie cramoisie semblent danser autour de la lame dans l'obscurité.
 
